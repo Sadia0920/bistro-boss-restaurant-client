@@ -33,6 +33,7 @@ export default function Testimonials() {
         className='w-6/12 mx-auto'
         readOnly
         />
+        <i class="fa-solid fa-quote-left text-7xl text-center mt-6 w-full mx-auto"></i>
         <p className='text-center my-4'>{review.details}</p>
         <h3 className='text-3xl text-orange-400 text-center'>{review.name}</h3>
         </div>

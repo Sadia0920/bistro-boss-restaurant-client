@@ -4,3 +4,4 @@
 - react-responsive-carousel
 - swiper
 - @smastrom/react-rating
+- react-icons
